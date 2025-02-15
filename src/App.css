@@ -594,6 +594,10 @@ footer {
     width: 300px;
     margin-top: 30px;
   }
+  body{
+    overflow-x: hidden;
+    
+  }
   .next span{
 display: none;
   }
